@@ -1,6 +1,6 @@
 import os, shutil
 
-path = r"C:/Users/username/Downloads" #replace 'username' with your username
+path = r"C:/Users/username/Downloads/" #replace 'username' with your username
 
 file_name = os.listdir(path)
 
